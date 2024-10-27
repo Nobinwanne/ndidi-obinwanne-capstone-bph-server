@@ -691,8 +691,8 @@ export default [
     site_coverage: 45,
     max_height: 11,
     storeys: 2,
-    Description: "Residential Urban 1 Distric",
-    Comment:
+    description: "Residential Urban 1 Distric",
+    comment:
       "The purpose of this district is to provide for low density residential development within fully-serviced multi-lot residential subdivisions",
   },
   {
@@ -703,8 +703,8 @@ export default [
     site_coverage: 55,
     max_height: 11,
     storeys: 2,
-    Description: "Residential Urban 2 District",
-    Comment:
+    description: "Residential Urban 2 District",
+    comment:
       "The purpose of this district is to provide for medium density residential development within fully-serviced multi-lot residential subdivisions.",
   },
   {
@@ -715,8 +715,8 @@ export default [
     site_coverage: 55,
     max_height: 11,
     storeys: 2,
-    Description: "Residential Urban 3 District",
-    Comment:
+    description: "Residential Urban 3 District",
+    comment:
       "The purpose of this district is to provide for higher density residential development within fully-serviced multi-lot residential subdivisions.",
   },
   {
@@ -727,8 +727,8 @@ export default [
     site_coverage: 55,
     max_height: 11,
     storeys: 2,
-    Description: "Residential Multi Family District",
-    Comment:
+    description: "Residential Multi Family District",
+    comment:
       "The purpose of this district is to provide for the development of fully serviced, higher density, multi-family residential complexes.",
   },
   {
@@ -739,8 +739,8 @@ export default [
     site_coverage: 150,
     max_height: 14,
     storeys: 3,
-    Description: "Town Center District",
-    Comment:
+    description: "Town Center District",
+    comment:
       "The purpose of this district is to provide for a range of mixed higher density residential, personal, commercial, and institutional uses.",
   },
   {
@@ -751,8 +751,8 @@ export default [
     site_coverage: 50,
     max_height: 10,
     storeys: 2,
-    Description: "Urban Commercial 1 District",
-    Comment:
+    description: "Urban Commercial 1 District",
+    comment:
       "The purpose of this district is to provide for a range of commercial uses to meet basic and daily needs in close proximity to residential areas.",
   },
   {
@@ -763,8 +763,8 @@ export default [
     site_coverage: 50,
     max_height: 14,
     storeys: 3,
-    Description: "Urban Commercial 2 District",
-    Comment:
+    description: "Urban Commercial 2 District",
+    comment:
       "The purpose of this district is to provide for a range of commercial uses to serve the larger Leduc County community.",
   },
   {
@@ -775,8 +775,8 @@ export default [
     site_coverage: 25,
     max_height: 10,
     storeys: 2,
-    Description: "Wizard Lake Central District",
-    Comment:
+    description: "Wizard Lake Central District",
+    comment:
       "The purpose of this district is to protect the integrity of the lake and watershed, preserve tree cover and minimize adverse environmental impacts while allowing for minimal development of recreational and agricultural uses as well as residential development on smaller lots at lower densities.",
   },
   {
@@ -787,8 +787,8 @@ export default [
     site_coverage: 25,
     max_height: 10,
     storeys: 2,
-    Description: "Wizard Lake Watershed/Conjuring Creek District",
-    Comment:
+    description: "Wizard Lake Watershed/Conjuring Creek District",
+    comment:
       "The purpose of this district is to protect the integrity of the lake and watershed, preserve tree cover and minimize adverse environmental impacts while allowing for minimal development of recreational and agricultural uses as well as residential development on larger lots at lower densities.",
   },
   {
@@ -799,8 +799,8 @@ export default [
     site_coverage: 25,
     max_height: 10,
     storeys: 2,
-    Description: "Wizard Lake West District",
-    Comment:
+    description: "Wizard Lake West District",
+    comment:
       "The purpose of this district is to protect the integrity of the lake and watershed, preserve tree cover and minimize adverse environmental impacts while allowing for minimal development of recreational and agricultural uses as well as residential development on larger lots at lower densities.",
   },
   {
@@ -811,8 +811,8 @@ export default [
     site_coverage: 80,
     max_height: 10,
     storeys: 6,
-    Description: "Industrial Business District",
-    Comment:
+    description: "Industrial Business District",
+    comment:
       "The purpose of this district is to allow for development of a wide array of business/corporate offices, retail/commercial operations, entertainment facilities/complexes, and high standard accommodations.",
   },
   {
@@ -823,8 +823,8 @@ export default [
     site_coverage: 80,
     max_height: 10,
     storeys: 6,
-    Description: "Light Industrial District",
-    Comment:
+    description: "Light Industrial District",
+    comment:
       "The purpose of this district is to allow logistics and distribution land uses with opportunities for related and supporting land uses.",
   },
   {
@@ -835,8 +835,8 @@ export default [
     site_coverage: 60,
     max_height: 14,
     storeys: 3,
-    Description: "Urban Commercial 3 District",
-    Comment:
+    description: "Urban Commercial 3 District",
+    comment:
       "The purpose of this district is to provide for development of large scale, commercial shopping centres, entertainment and cultural uses in comprehensively planned developments.",
   },
   {
@@ -847,8 +847,8 @@ export default [
     site_coverage: 50,
     max_height: 25.6,
     storeys: 6,
-    Description: "Manufacturing Business Incubation District",
-    Comment:
+    description: "Manufacturing Business Incubation District",
+    comment:
       "The purpose of this district is to allow for development, within a business park-like setting, of mixed-use live/work units combined with manufacturing and business development, for the purpose of business incubation, and to be operated in such a way as to create no disturbances outside of the enclosed buildings.",
   },
   {
@@ -859,8 +859,8 @@ export default [
     site_coverage: 50,
     max_height: 10,
     storeys: 2,
-    Description: "Industrial Reserve",
-    Comment:
+    description: "Industrial Reserve",
+    comment:
       "The purpose of this district is generally intended to reserve those areas of the municipality which are rural in character or land use for industrial development until such time as a subdivision plan has been accepted in principal or approved for other specific uses not permitted in this district.",
   },
   {
@@ -871,8 +871,8 @@ export default [
     site_coverage: 100,
     max_height: 4,
     storeys: 1,
-    Description: "Commercial",
-    Comment:
+    description: "Commercial",
+    comment:
       "The purpose of this district is to provide for the mixed-use development of retail and service outlets which offer a variety of goods and services and allow for existing residential developments or in combination with commercial development.",
   },
   {
@@ -883,8 +883,8 @@ export default [
     site_coverage: 40,
     max_height: 4,
     storeys: 1,
-    Description: "Mobile Home Court",
-    Comment:
+    description: "Mobile Home Court",
+    comment:
       "The purpose of this district is generally intended to provide for Mobile Home Courts.",
   },
   {
@@ -895,8 +895,8 @@ export default [
     site_coverage: 40,
     max_height: 10,
     storeys: 2,
-    Description: "Urban Reserve",
-    Comment:
+    description: "Urban Reserve",
+    comment:
       "The purpose of this district is generally intended to reserve those areas of the municipality which are rural in character or land use for urban development until such time as an area structure plan has been approved or a subdivision plan has been accepted in principal or approved for other specific uses not permitted in this district.",
   },
 ];
