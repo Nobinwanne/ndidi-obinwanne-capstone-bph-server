@@ -6,11 +6,19 @@ const getListings = async (_req, res) => {
   try {
     const listings = await knex("commercial_listings")
       .join("zone", "commercial_listings.zone_id", "zone.id")
-      .join("city", "zone.city_id", "zone.id")
-      .join("category", "zone.category_id", "zone.id");
+      .join("city", "zone.city_id", "city.id")
+      .join("category", "zone.category_id", "category.id")
+      .select(
+        "commercial_listings.*",
+        "zone.zone",
+        "city.city",
+        "category.category"
+      );
+
     res.status(200).json(listings);
+    console.log("listings are: ", listings);
   } catch (error) {
-    res.status(400).send(`Unable to retrieve listings ${error}`);
+    res.status(400).send(`Unable to retrieve listings: ${error}`);
   }
 };
 
