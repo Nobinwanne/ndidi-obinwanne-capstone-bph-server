@@ -54,7 +54,7 @@ export default [
       "A family, well runned CATERING and TAKE OUT business. Specializing mainly in Portuguese cuisine. With established clientele and business accounts. Servicing also the local neighborhood. Busy location. OWNER wants to retire and is time for new owner to take over the Business, so is giving the chance to someone else to continue this GOOD business. Large fully professional equipped restaurant kitchen and working stainless steel tables with Huge entertaining Televisions. The business just switched from Bakery to fully licensed AGLC Sport Bar and Restaurant. It also has private patio set up to accommodate  special events during the summer. Easy hours of operation: Tuesday to Sunday 9am to 6pm. Will not last long",
     longitude: "-113.480242330688",
     latitude: "53.5548660820034",
-    Type: "Vacant Land",
+    Type: "Business",
     amenities_nearby: "Schools, Shopping, Gym",
     realtor_name: "Don McKay",
     realtor_number: "780-993-7334",
